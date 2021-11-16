@@ -24,6 +24,9 @@ Use the following links to open them directly in colab.
 # Notes
 
 Install the following libraries
+- gensim
+- nltk
+- matplotlib
 - transformers
 - datasets
 - torch & torchvision
