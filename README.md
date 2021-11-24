@@ -20,6 +20,8 @@ Use the following links to open them directly in colab.
 
 [Chapter 6](https://colab.research.google.com/github/mmg10/MastTrans/blob/main/Ch6.ipynb)
 
+[Chapter 7](https://colab.research.google.com/github/mmg10/MastTrans/blob/main/Ch7.ipynb)
+
 
 # Notes
 
