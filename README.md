@@ -22,6 +22,7 @@ Use the following links to open them directly in colab.
 
 [Chapter 7](https://colab.research.google.com/github/mmg10/MastTrans/blob/main/Ch7.ipynb)
 
+[Chapter 8](https://colab.research.google.com/github/mmg10/MastTrans/blob/main/Ch8.ipynb)
 
 # Notes
 
