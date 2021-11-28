@@ -24,6 +24,7 @@ Use the following links to open them directly in colab.
 
 [Chapter 8](https://colab.research.google.com/github/mmg10/MastTrans/blob/main/Ch8.ipynb)
 
+[Chapter 9](https://colab.research.google.com/github/mmg10/MastTrans/blob/main/Ch9.ipynb)
 # Notes
 
 Install the following libraries
